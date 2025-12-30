@@ -32,6 +32,6 @@
 ---
 
 ### 🔭 Currently Working On
-- 🔭 I’m currently working on **<Project DP>**
-- 🌱 I’m currently learning **<AI TECHs>**
+- 🔭 I’m currently working on **Project DP**
+- 🌱 I’m currently learning **AI TECHs**
 - ⚡ Fun fact: **I love coffee and coding!**
